@@ -1,0 +1,15 @@
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\bin\Debug\net6.0\PeopleSoftGLExport.Data.deps.json
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\bin\Debug\net6.0\PeopleSoftGLExport.Data.dll
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\bin\Debug\net6.0\PeopleSoftGLExport.Data.pdb
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\bin\Debug\net6.0\PeopleSoftGLExport.Business.dll
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\bin\Debug\net6.0\PeopleSoftGLExport.Business.pdb
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\PeopleSoftGLExport.Data.csproj.AssemblyReference.cache
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\PeopleSoftGLExport.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\PeopleSoftGLExport.Data.AssemblyInfoInputs.cache
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\PeopleSoftGLExport.Data.AssemblyInfo.cs
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\PeopleSoftGLExport.Data.csproj.CoreCompileInputs.cache
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\PeopleSoftGLExport.Data.csproj.CopyComplete
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\PeopleSoftGLExport.Data.dll
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\refint\PeopleSoftGLExport.Data.dll
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\PeopleSoftGLExport.Data.pdb
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Data\obj\Debug\net6.0\ref\PeopleSoftGLExport.Data.dll

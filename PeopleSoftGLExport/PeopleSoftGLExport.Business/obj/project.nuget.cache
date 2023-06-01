@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8v1ZQdZSNjqMpbGl7OApPRyNwEnehQKbYWWVB8MOIVTPvp03soAgOrRzY1t+jIZggAtOUq939WOS3vxOFfLPaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\RCC_0591380074-RCC_PeopleSoft\\PeopleSoftGLExport\\PeopleSoftGLExport.Business\\PeopleSoftGLExport.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manny.ed\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

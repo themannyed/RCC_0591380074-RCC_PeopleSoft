@@ -1,0 +1,12 @@
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\bin\Debug\net6.0\PeopleSoftGLExport.Business.deps.json
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\bin\Debug\net6.0\PeopleSoftGLExport.Business.dll
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\bin\Debug\net6.0\PeopleSoftGLExport.Business.pdb
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\PeopleSoftGLExport.Business.csproj.AssemblyReference.cache
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\PeopleSoftGLExport.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\PeopleSoftGLExport.Business.AssemblyInfoInputs.cache
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\PeopleSoftGLExport.Business.AssemblyInfo.cs
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\PeopleSoftGLExport.Business.csproj.CoreCompileInputs.cache
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\PeopleSoftGLExport.Business.dll
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\refint\PeopleSoftGLExport.Business.dll
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\PeopleSoftGLExport.Business.pdb
+C:\Dev\RCC_0591380074-RCC_PeopleSoft\PeopleSoftGLExport\PeopleSoftGLExport.Business\obj\Debug\net6.0\ref\PeopleSoftGLExport.Business.dll
